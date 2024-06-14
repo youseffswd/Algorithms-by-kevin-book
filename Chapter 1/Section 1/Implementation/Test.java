@@ -3,6 +3,7 @@ import edu.princeton.cs.algs4.StdRandom;
 
 class Test{
     public static void main(String[] args) {
+        
         int N = Integer.parseInt(args[0]);
         double low = Double.parseDouble(args[1]);
         double hi = Double.parseDouble(args[2]);
